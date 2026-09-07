@@ -1,0 +1,15 @@
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.container {
+    margin: 20px auto;
+    max-width: 1200px;
+    padding: 20px;
+}
